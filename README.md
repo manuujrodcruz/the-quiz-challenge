@@ -33,13 +33,6 @@ El análisis reveló cuatro clústeres de videos con patrones distintivos:
 
 El dashboard permite a **The Quiz Challenge** visualizar estas métricas de forma clara y tomar decisiones informadas sobre qué tipo de contenido priorizar. Los resultados se guardaron en archivos como `videos_por_cluster.csv` para su análisis posterior.
 
-## Estructura del Repositorio
-
-- `/data`: Contiene los datasets originales (`video_data_for_clustering.csv`) y procesados (`videos_por_cluster.csv`).
-- `/scripts`: Scripts en Python para preprocesamiento, clustering y generación de gráficos (ej. `clustering_latest.ipynb`).
-- `/visualizations`: Archivos de Tableau con el dashboard interactivo.
-- `/docs`: Documentación adicional, como informes o guías del proyecto.
-
 ## Herramientas Utilizadas
 
 - **Tableau Prep**: Para la limpieza y transformación de datos.
@@ -59,13 +52,6 @@ Este proyecto fue desarrollado por:
 - **José Antonio Taveras Abreu**
 
 Agradecemos cualquier comentario o sugerencia para mejorar el proyecto.
-
-## Instrucciones de Uso
-
-1. Clona este repositorio: `git clone [URL del repositorio]`.
-2. Explora los scripts en `/scripts` para revisar el proceso de clustering (`clustering_latest.ipynb`).
-3. Abre los archivos en `/visualizations` con Tableau para interactuar con el dashboard.
-4. Revisa los datasets en `/data` para analizar los datos procesados.
 
 ## Recomendaciones Estratégicas
 
