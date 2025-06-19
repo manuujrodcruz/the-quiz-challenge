@@ -36,7 +36,7 @@ El dashboard permite a **The Quiz Challenge** visualizar estas métricas de form
 
 ## Estructura del Repositorio
 
-- `/data`: Contiene los datasets originales (`video_data_for_clustering.csv`) y procesados (`videos_por_cluster.csv`).
+- `/data`: Contiene el dataset a utilizar en el notebook (`video_data_for_clustering.csv`).
 - `/scripts`: Scripts en Python para preprocesamiento, clustering y generación de gráficos (ej. `clustering_latest.ipynb`).
 - `/visualizations`: Archivos de Tableau con el dashboard interactivo.
 - `/docs`: Documentación adicional, incluyendo el archivo `ProyectoFinal.pdf`, que detalla los requisitos y entregables del proyecto.
