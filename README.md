@@ -26,6 +26,7 @@ El proyecto se desarrolló en las siguientes etapas:
 ## Resultados
 
 El análisis reveló cuatro clústeres de videos con patrones distintivos:
+
 - **Cluster 0**: Videos interactivos tipo "Would You Rather" y de cultura pop, con altas vistas y tasas de clics.
 - **Cluster 1**: Videos sobre deportes, destacados por un alto número de vistas.
 - **Cluster 2**: Videos cortos relacionados con deportes y naturaleza, efectivos para captar atención rápida.
@@ -38,7 +39,7 @@ El dashboard permite a **The Quiz Challenge** visualizar estas métricas de form
 - `/data`: Contiene los datasets originales (`video_data_for_clustering.csv`) y procesados (`videos_por_cluster.csv`).
 - `/scripts`: Scripts en Python para preprocesamiento, clustering y generación de gráficos (ej. `clustering_latest.ipynb`).
 - `/visualizations`: Archivos de Tableau con el dashboard interactivo.
-- `/docs`: Documentación adicional, como informes o guías del proyecto.
+- `/docs`: Documentación adicional, incluyendo el archivo `ProyectoFinal.pdf`, que detalla los requisitos y entregables del proyecto.
 
 ## Herramientas Utilizadas
 
@@ -54,6 +55,7 @@ El dashboard permite a **The Quiz Challenge** visualizar estas métricas de form
 ## Contribuciones
 
 Este proyecto fue desarrollado por:
+
 - **Manuel José Rodríguez Cruz**
 - **Steven Manuel Mateo Ramos**
 - **José Antonio Taveras Abreu**
@@ -66,6 +68,7 @@ Agradecemos cualquier comentario o sugerencia para mejorar el proyecto.
 2. Explora los scripts en `/scripts` para revisar el proceso de clustering (`clustering_latest.ipynb`).
 3. Abre los archivos en `/visualizations` con Tableau para interactuar con el dashboard.
 4. Revisa los datasets en `/data` para analizar los datos procesados.
+5. Consulta el archivo `ProyectoFinal.pdf` en `/docs` para conocer los detalles de los requisitos del proyecto.
 
 ## Recomendaciones Estratégicas
 
